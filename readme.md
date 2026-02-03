@@ -1,3 +1,4 @@
+![logo](https://github.com/rahamchowdhury07-bit/portfolio/blob/main/Blue%20Modern%20Professional%20Graphic%20Designer%20Banner.png)
 <h1 align="center">Hi 👋, I'm Md. Raham Ullah Chowdhury</h1>
 <h3 align="center">A passionate Data Analyst from Bangladesh</h3>
 
